@@ -64,6 +64,20 @@ body {
     margin-bottom: 10px;
   }
 }
+/* Estilos para el contenedor */
+.contenedor {
+    text-align: center; /* Centrar el texto en el contenedor */
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* Estilos para el texto */
+.texto {
+    font-size: 24px;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
 
 /*Lighbox CSS*/
 
