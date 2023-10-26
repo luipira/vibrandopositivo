@@ -313,6 +313,21 @@ h1{
     /* margin-left: 10px;
     margin-right: 10px; */
 }
+/* Estilos para el botón */
+        .custom-button {
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none; /* Quita el subrayado de enlace */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        /* Cambiar el color del botón al pasar el ratón por encima */
+        .custom-button:hover {
+            background-color: #1e6eb7;
+        }
 h5{
     font-size: 16px;
 }
