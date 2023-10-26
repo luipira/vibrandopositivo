@@ -313,6 +313,9 @@ h1{
     /* margin-left: 10px;
     margin-right: 10px; */
 }
+.centered-container {
+            text-align: center; /* Centra horizontalmente */
+        }
 /* Estilos para el botón */
         .custom-button {
             background-color: #FFC0CB;
