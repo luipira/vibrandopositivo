@@ -318,7 +318,7 @@ h1{
             background-color: #FFC0CB;
             color: #fff;
             padding: 10px 20px;
-            text-decoration: none; /* Quita el subrayado de enlace */
+            text-align: centre;
             border: none;
             border-radius: 5px;
             cursor: pointer;
@@ -326,7 +326,7 @@ h1{
 
         /* Cambiar el color del botón al pasar el ratón por encima */
         .custom-button:hover {
-            background-color: #1e6eb7;
+            background-color: #FF69B4;
         }
 h5{
     font-size: 16px;
