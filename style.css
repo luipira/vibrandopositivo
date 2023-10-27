@@ -83,12 +83,14 @@ body {
 	text-align: center; /* Centrar el texto en el contenedor */
     font-size: 24px;
     color: #333;
-    font-family: Arial, sans-serif;
+   font-family: 'Patrick Hand', cursive;
+
 }
 .viñetas {
     font-size: 24px;
     color: #333;
-    font-family: Arial, sans-serif;
+    font-family: 'Patrick Hand', cursive;
+
 }
 
 /*Lighbox CSS*/
