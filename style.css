@@ -86,13 +86,13 @@ body {
 	text-align: center; /* Centrar el texto en el contenedor */
     font-size: 24px;
     color: #333;
-   font-family: 'Patrick Hand', cursive;
+ 
 
 }
 .viñetas {
     font-size: 24px;
     color: #333;
-    font-family: 'Patrick Hand', cursive;
+    
 
 }
 
@@ -172,7 +172,6 @@ header{
 	display: block;
 	padding: 15px 20px;
 	color: #353535;
-	font-family: 'Open sans';
 	text-decoration: none;
 }
 
@@ -196,7 +195,6 @@ header{
 	display: block;
 	padding: 15px;
 	color: #fff;
-	font-family: 'Open sans';
 	text-decoration: centre;
 }
 
@@ -348,7 +346,6 @@ h1{
   margin-bottom: 1em;
 font-size: 24px; 
 color: #C71585 ;
-    font-family: Arial, sans-serif;
 }
 h5{
     font-size: 16px;
