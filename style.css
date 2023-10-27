@@ -21,6 +21,9 @@ body {
   height: 100vh;
   font-family: "Open Sans", sans-serif;
 }
+ img {
+        max-width: 200px; /* Cambia el tamaño máximo del logotipo */
+    }
 .container {
   max-width: 800px;
   margin: 5% auto;
