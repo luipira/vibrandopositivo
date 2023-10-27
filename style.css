@@ -22,14 +22,14 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 .logo{
-	 width:"300";
-	 height:"200";
+	 
 }
 
 .centrarlogo{
             text-align: center; /* Centra horizontalmente */
 	    background-color: #FFC0CB;
-	   
+	   width:"300";
+	 height:"200";
         }
 .container {
   max-width: 800px;
