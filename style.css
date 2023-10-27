@@ -19,7 +19,7 @@ body {
   );
   background-repeat: no-repeat;
   height: 100vh;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Pacifico', cursive;
 }
  img {
         max-width: 200px; /* Cambia el tamaño máximo del logotipo */
