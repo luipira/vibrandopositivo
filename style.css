@@ -21,11 +21,14 @@ body {
   height: 100vh;
   font-family: 'Patrick Hand', cursive;
 }
+.logo{
+	 max-width: 200px;
+}
 
 .centrarlogo{
             text-align: center; /* Centra horizontalmente */
 	    background-color: #FFC0CB;
-	    max-width: 200px;
+	   
         }
 .container {
   max-width: 800px;
