@@ -24,6 +24,10 @@ body {
  img {
         max-width: 200px; /* Cambia el tamaño máximo del logotipo */
     }
+.centrarlogo{
+            text-align: center; /* Centra horizontalmente */
+	    background-color: #FEF8F7;
+        }
 .container {
   max-width: 800px;
   margin: 5% auto;
