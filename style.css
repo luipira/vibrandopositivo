@@ -22,7 +22,8 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 .logo{
-	 height: 100px;
+	 width:"300";
+	 height:"200";
 }
 
 .centrarlogo{
