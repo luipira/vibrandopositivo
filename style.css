@@ -363,10 +363,20 @@ font-size: 24px;
 color: #C71585 ;
 text-decoration: none;
 }
-a[href] {
-    color: blue;
-    text-decoration: underline;
+.whatsapp-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: green;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
 }
+
+.whatsapp-button:hover {
+    background-color: darkgreen;
+}
+
 .divh5{
 	background-color: #C71585;
 	  text-align: center;
