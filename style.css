@@ -198,6 +198,7 @@ body::before {
 	visibility: hidden;
 	opacity: 0;
 	transition: opacity 1.5s;
+	border-radius: 10px;
 }
 
 .submenu li a{
