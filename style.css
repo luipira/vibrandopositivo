@@ -169,8 +169,9 @@ body::before {
 	list-style: none;
 }
 
-a {
-	color: #fff;
+a:not([href]) {
+    color: #fff;
+    text-decoration: none;
 }
 
 .menu > li{
