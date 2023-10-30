@@ -31,8 +31,7 @@ body::before {
     height: 100%;
     background-image: url('ruta/a/la/imagen.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
-    z-index: -1; /* Coloca el fondo detrás de todo */
+   
 }
 
 
@@ -203,7 +202,7 @@ body::before {
 
 .submenu li a{
 	display: block;
-	padding: 15px;
+	padding: 30px;
 	color: #fff;
 	text-decoration: centre;
 }
