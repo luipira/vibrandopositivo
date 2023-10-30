@@ -142,14 +142,6 @@ body {
 	box-sizing: border-box;
 }
 
-body{
-	background: #ffffff;
-}
-
-header{
-	width: 100%;
-}
-
 .navegacion{
 	
 	background-color: #ffffff;
@@ -181,7 +173,7 @@ header{
 
 .submenu{
 	position: absolute;
-	background: #333333;
+	background: #fff;
 	width: 120%;
 	visibility: hidden;
 	opacity: 0;
@@ -191,7 +183,7 @@ header{
 .submenu li a{
 	display: block;
 	padding: 15px;
-	color: #fff;
+	color: #353535;
 	text-decoration: centre;
 }
 
