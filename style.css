@@ -169,6 +169,10 @@ body::before {
 	list-style: none;
 }
 
+.productos{
+	color: #fff;
+}
+
 .menu > li{
 	position: relative;
 	display: inline-block;
