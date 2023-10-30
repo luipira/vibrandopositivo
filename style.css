@@ -17,6 +17,23 @@ body {
     height: 100vh;
     font-family: 'Oswald', sans-serif;
 }}
+body {
+    position: relative; /* Asegura que el cuerpo tenga una posición relativa */
+    font-family: 'Oswald', sans-serif;
+}
+
+body::before {
+    content: '';
+    position: fixed; /* Fija el fondo a la ventana del navegador */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('ruta/a/la/imagen.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -1; /* Coloca el fondo detrás de todo */
+}
 
 
 
