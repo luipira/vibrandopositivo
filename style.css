@@ -93,7 +93,7 @@ body {
 .viñetas {
     font-size: 24px;
     color: #333;
-    
+    margin-left: 20px;
 
 }
 
@@ -351,4 +351,7 @@ h5{
 .boton-enlace:hover {
     background-color: #C71585; /* Color de fondo del botón al pasar el cursor (puedes cambiarlo) */
     color: #FFC0CB;
+}
+.productosul{
+	color: #333
 }
