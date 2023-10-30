@@ -177,7 +177,7 @@ body::before {
 .menu > li > a{
 	display: block;
 	padding: 15px 20px;
-	color: #353535;
+	color: #fff;
 	text-decoration: none;
 }
 
@@ -190,7 +190,7 @@ body::before {
 
 .submenu{
 	position: absolute;
-	background: #fff;
+	background: #C71585;
 	width: 120%;
 	visibility: hidden;
 	opacity: 0;
@@ -200,7 +200,7 @@ body::before {
 .submenu li a{
 	display: block;
 	padding: 15px;
-	color: #353535;
+	color: #fff;
 	text-decoration: centre;
 }
 
