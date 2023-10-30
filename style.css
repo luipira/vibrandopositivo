@@ -363,6 +363,10 @@ font-size: 24px;
 color: #C71585 ;
 text-decoration: none;
 }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+}
 .divh5{
 	background-color: #C71585;
 	  text-align: center;
