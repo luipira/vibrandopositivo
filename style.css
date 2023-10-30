@@ -169,10 +169,6 @@ body::before {
 	list-style: none;
 }
 
-a:not([href]) {
-    color: #fff;
-    text-decoration: none;
-}
 
 .menu > li{
 	position: relative;
