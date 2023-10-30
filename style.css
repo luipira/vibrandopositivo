@@ -11,23 +11,24 @@
     width: 70%;
 } */
 body {
-	
-background-image: url('fondo.png');
+    background-image: url('fondo.pngs');
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-background-color: #3bb2b8;
- 
-  background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Oswald', sans-serif;
+}}
 
- background: linear-gradient(
+{	
+background-color: #3bb2b8;
+background-repeat: no-repeat;
+background: linear-gradient(
     25deg,
     rgba(66, 230, 149, 1),
     rgba(66, 32, 149, 1)
   );
-  height: 100hv;
-  font-family: 'Oswald', sans-serif;
-}
+height: 100hv;
+font-family: 'Oswald', sans-serif;}
+
 
 .logo{
 	 height:500px; 
