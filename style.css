@@ -161,7 +161,7 @@ body::before {
 
 .navegacion{
 	
-	background-color:#FF69B4;
+	background-color:#C71585;
 	text-align: left;
 }
 
@@ -182,7 +182,7 @@ body::before {
 }
 
 .menu li a:hover{
-	color: #CE7D35;
+	color: #FFC0CB;
 	transition: all .3s;
 }
 
