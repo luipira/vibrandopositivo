@@ -333,6 +333,14 @@ h5{
     font-size: 16px;
     color: #FFC0CB;
 }
+footer {
+    padding: 10px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
 .boton-container {
     text-align: center; /* Centrar horizontalmente */
 }
