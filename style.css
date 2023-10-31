@@ -355,3 +355,8 @@ h5{
 .productosul{
 	color: #333
 }
+p {
+    margin-left: 20px; /* Margen izquierdo de 20 píxeles */
+    margin-right: 20px; /* Margen derecho de 20 píxeles */
+    text-align: justify; /* Texto justificado */
+  }
