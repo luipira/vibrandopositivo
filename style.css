@@ -330,12 +330,12 @@ h1{
 	  text-align: center;
 }
 h5{
-    font-size: 12px;
+    font-size: 14px;
     color: #FFC0CB;
 }
 footer {
    background-color: #C71585;
-    padding: 0px;
+    padding: 5px;
     text-align: center;
     position: fixed;
     bottom: 0;
