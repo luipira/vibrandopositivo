@@ -335,12 +335,12 @@ h5{
 }
 footer {
    background-color: #C71585;
-    padding: 1px;
+    padding: 0px;
     text-align: center;
     position: fixed;
     bottom: 0;
     left: 0;
-    width: 70%;
+    width: 100%;
 }
 .boton-container {
     text-align: center; /* Centrar horizontalmente */
