@@ -1,32 +1,32 @@
 [
   
   {
-    "nombre": "Mate Vibrando Positivo, Mate Vibrando Positivo,Mate Vibrando Positivo,Mate Vibrando Positivo,Mate Vibrando Positivo",
-    "descripcion": "El mate, también conocido como mate en algunos lugares de América Latina, es una bebida jhgfdsaJPOOP9087HUHUBUIH B IIHY87Y78T66JKMLL,L,Ñ El mate, también conocido como mate en algunos lugares de América Latina, es una bebida tradicional y emblemática en muchas culturas de Sudamérica, que abarca desde Argentina, Uruguay y Paraguay, hasta partes de Chile y Brasil. Se ha convertido en mucho más que una simple infusión; es un símbolo de amistad, hospitalidad y unión social que trasciende las fronteras y las diferencias culturales.",
+    "nombre": "Mate Vibrando Positivo",  // 680 o mas caracteres
+    "descripcion": "Mate de Madera pintado a mano y barnizado.", // 680 o mas caracteres
     "precio": 3500,
     "imagen": "img/matevibrando.jpeg"
   },
   {
     "nombre": "Mate Stitch",
-    "descripcion": "Mate de madera pintado a mano.",
+    "descripcion": "Mate de madera pintado a mano y barnizado.",
     "precio": 3500,
     "imagen": "img/matestitch.jpeg"
   },
   {
     "nombre": "Mate Mandala",
-    "descripcion": "Mate de Madera pintado a mano",
+    "descripcion": "Mate de Madera pintado a mano y barnizado.",
     "precio": 3500,
     "imagen": "img/matemandala.jpeg"
   },
   {
     "nombre": "Mate Be Happy",
-    "descripcion": "Mate de madera pintado a mano",
+    "descripcion": "Mate de madera pintado a mano y barnizado.",
     "precio": 3500,
     "imagen": "img/matebehappy.jpeg"
   },
   {
     "nombre": "Mate Ojo Turco",
-    "descripcion": "Mate de madera pintado a mano",
+    "descripcion": "Mate de madera pintado a mano y barnizado.",
     "precio": 3500,
     "imagen": "img/mateojoturco.jpeg"
   }
