@@ -1,8 +1,8 @@
 [
   
   {
-    "nombre": "Mate Vibrando Positivo",  // 680 o mas caracteres
-    "descripcion": "Mate de Madera pintado a mano y barnizado.", // 680 o mas caracteres
+    "nombre": "Mate Vibrando Positivo",  
+    "descripcion": "Mate de Madera pintado a mano y barnizado.", 
     "precio": 3500,
     "imagen": "img/matevibrando.jpeg"
   },
