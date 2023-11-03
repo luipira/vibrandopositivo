@@ -29,35 +29,5 @@
     "descripcion": "Mate de madera pintado a mano",
     "precio": 3500,
     "imagen": "img/mateojoturco.jpg"
-  },
-   {
-    "nombre": "Colgante de Cristal Swarovski",
-    "descripcion": "Deslumbrante colgante con cristal Swarovski en tonos brillantes.",
-    "precio": 44.99,
-    "imagen": "img/prod6.jpg"
-  },
-  {
-    "nombre": "Colgante de Turquesa",
-    "descripcion": "Colgante de diseño bohemio con piedra de turquesa auténtica.",
-    "precio": 27.99,
-    "imagen": "img/prod7.jpg"
-  },
-  {
-    "nombre": "Colgante de Plata y Zafiro",
-    "descripcion": "Elegante colgante con zafiro azul engastado en plata de ley.",
-    "precio": 59.99,
-    "imagen": "img/prod8.jpg"
-  },
-  {
-    "nombre": "Colgante de Amatista",
-    "descripcion": "Colgante con amatista natural y detalles en plata envejecida.",
-    "precio": 23.99,
-    "imagen": "img/prod9.jpg"
-  },
-  {
-    "nombre": "Colgante de Peridoto",
-    "descripcion": "Colgante con piedra de peridoto verde en forma de lágrima.",
-    "precio": 32.99,
-    "imagen": "img/prod10.jpg"
   }
 ]
