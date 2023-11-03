@@ -1,63 +1,40 @@
 [
   
   {
-    "nombre": "pulsera vp",
-    "descripcion": "Mate de madera pintado a mano.",
-    "precio": 2500,
-    "imagen": "img/matevibrando.jpeg"
+    "nombre": "Aros Emily",
+    "descripcion": "Aros realizados de arcilla, pintados a mano y barnizados.",
+    "precio": 1500,
+    "imagen": "img/arosemily.jpg"
   },
   {
-    "nombre": "Mate Stitch",
-    "descripcion": "Mate de madera pintado a mano.",
-    "precio": 2500,
-    "imagen": "img/matestitch.jpeg"
+    "nombre": "Collar Chula",
+    "descripcion": "Collar realizado con tanza de alambre, mostacillas y perlas.",
+    "precio": 2000,
+    "imagen": "img/collarchula.jpg"
   },
   {
-    "nombre": "Colgante de Cuarzo Rosa",
-    "descripcion": "Delicado colgante con cristal de cuarzo rosa en forma de corazón.",
-    "precio": 19.99,
-    "imagen": "img/prod3.jpg"
+    "nombre": "Pulseras Corazon Compartidas",
+    "descripcion": "Dúo pulseras con dije de corazon realizadas de hilo encerado rojo.",
+    "precio": 700,
+    "imagen": "img/pulserascorazoncompartidas.jpeg"
   },
   {
-    "nombre": "Colgante de Plata y Ámbar",
-    "descripcion": "Colgante único con diseño de plata y piedra de ámbar báltico.",
-    "precio": 49.99,
-    "imagen": "img/prod4.jpg"
+    "nombre": "Collar Happy",
+    "descripcion": "Collar realizado de mostacillas y dijes varios.",
+    "precio": 1000,
+    "imagen": "img/collarhappy.jpg"
   },
   {
-    "nombre": "Colgante de Perla",
-    "descripcion": "Elegante colgante con perla cultivada y detalles en plata.",
-    "precio": 34.99,
-    "imagen": "img/prod5.jpg"
+    "nombre": "Pulsera Arcoiris",
+    "descripcion": "Pulsera realizada de tanza de alabre, mostacillas y dijes ojos turcos.",
+    "precio": 500,
+    "imagen": "img/pulseraarcoiris.jpeg"
   },
   {
-    "nombre": "Colgante de Cristal Swarovski",
-    "descripcion": "Deslumbrante colgante con cristal Swarovski en tonos brillantes.",
-    "precio": 44.99,
-    "imagen": "img/prod6.jpg"
-  },
-  {
-    "nombre": "Colgante de Turquesa",
-    "descripcion": "Colgante de diseño bohemio con piedra de turquesa auténtica.",
-    "precio": 27.99,
-    "imagen": "img/prod7.jpg"
-  },
-  {
-    "nombre": "Colgante de Plata y Zafiro",
-    "descripcion": "Elegante colgante con zafiro azul engastado en plata de ley.",
-    "precio": 59.99,
-    "imagen": "img/prod8.jpg"
-  },
-  {
-    "nombre": "Colgante de Amatista",
-    "descripcion": "Colgante con amatista natural y detalles en plata envejecida.",
-    "precio": 23.99,
-    "imagen": "img/prod9.jpg"
-  },
-  {
-    "nombre": "Colgante de Peridoto",
-    "descripcion": "Colgante con piedra de peridoto verde en forma de lágrima.",
-    "precio": 32.99,
-    "imagen": "img/prod10.jpg"
+    "nombre": "Aros Hojas",
+    "descripcion": "Aros realizados de alambre.",
+    "precio": 500,
+    "imagen": "img/Aroshojas.jpg"
   }
+  
 ]
