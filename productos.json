@@ -16,18 +16,18 @@
     "nombre": "Mate Mandala",
     "descripcion": "Mate de Madera pintado a mano",
     "precio": 3500,
-    "imagen": "img/matemandala.jpg"
+    "imagen": "img/matemandala.jpeg"
   },
   {
     "nombre": "Mate Be Happy",
     "descripcion": "Mate de madera pintado a mano",
     "precio": 3500,
-    "imagen": "img/matebehappy.jpg"
+    "imagen": "img/matebehappy.jpeg"
   },
   {
     "nombre": "Mate Ojo Turco",
     "descripcion": "Mate de madera pintado a mano",
     "precio": 3500,
-    "imagen": "img/mateojoturco.jpg"
+    "imagen": "img/mateojoturco.jpeg"
   }
 ]
