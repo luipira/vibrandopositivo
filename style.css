@@ -63,13 +63,13 @@ body {
 }
 
 .carrito {
-    background-color: red; /* Color de fondo de la franja */
+    background-color: #fff; /* Color de fondo de la franja */
     text-align: center;
     color: #fff;
    padding: 20px;
 }
 .vercarrito {
-   background-color:red;
+   background-color: black;
    text-align: center;
    color: #fff;
    padding: 20px;
