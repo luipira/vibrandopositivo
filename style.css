@@ -42,7 +42,7 @@ body {
    
 }
 /*productos*/
-.container {
+.containerprod {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between; /* Espacio entre productos */
