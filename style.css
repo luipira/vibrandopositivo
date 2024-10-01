@@ -42,26 +42,26 @@ body {
    
 }
 /*productos*/
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Espacio entre productos */
+}
+
 .product {
-	display: flex;
-    align-items: center;
-    background-color: #f9f9f9; /* Color de fondo de la franja */
-    border: 2px solid #ddd; /* Borde alrededor del producto */
-    margin-bottom: 20px; /* Espacio entre franjas */
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    flex: 1 0 calc(33.33% - 20px); /* Tres productos por fila, con margen */
+    margin: 10px; /* Espacio entre productos */
+    display: flex;
+    flex-direction: column; /* Para alinear imagen, precio y botón */
+    align-items: center; /* Centra el contenido */
 }
-span {
-	flex: 1;
-	color: black;
-	font-size: 20px;
-}
+
 .imagen {
-    max-width: 150px; /* Ajusta el tamaño de la imagen */
-    height: auto; /* Mantiene la proporción de la imagen */
-    border-radius: 4px; /* Esquinas redondeadas en la imagen */
-    margin-right: 20px; /* Espacio entre la imagen y el texto */
+    max-width: 100%; /* Ajusta la imagen al contenedor */
+    height: auto;
+    border-radius: 4px;
 }
+
 .carrito {
     background-color: red; /* Color de fondo de la franja */
     text-align: center;
