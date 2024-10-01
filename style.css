@@ -57,6 +57,7 @@ body {
 
 .carritoimg {
     margin-left: auto; /* Alinea a la derecha */
+    text-align: right;
 }
 
 .icono-carrito {
