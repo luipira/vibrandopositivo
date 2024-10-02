@@ -73,16 +73,18 @@ body {
 }
 
 .product {
-    flex: 1 0 calc(33.33% - 20px); /* Tres productos por fila, con margen */
-    margin: 10px; /* Espacio entre productos */
+    flex: 0 1 calc(33.33% - 10px); /* Tres columnas con un pequeño margen */
+    margin-bottom: 20px; /* Espacio entre filas */
     display: flex;
     flex-direction: column; /* Para alinear imagen, precio y botón */
     align-items: center; /* Centra el contenido */
 }
 
 .imagen {
-    height: auto;
-    border-radius: 4px;
+   width: 100%; /* Hace que la imagen ocupe todo el contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    border-radius: 5px; /* Opcional: bordes redondeados */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Opcional: sombra para destacar */
 }
 
 .carrito {
