@@ -82,12 +82,6 @@ body {
     align-items: center; /* Centra el contenido */
 }
 
-.imagen {
-    width: 100%; /* Ancho completo del contenedor */
-    height: auto; /* Mantiene la proporción */
-    max-height: 300px; /* Establece una altura máxima si es necesario */
-    object-fit: cover; /* Rellena el contenedor sin distorsionar */
-}
 
 .carrito {
     background-color: #FFC0CB; /* Color de fondo de la franja */
