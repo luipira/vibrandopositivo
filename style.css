@@ -67,24 +67,26 @@ body {
 
 /*productos*/
 .containerprod {
-    display: flex;
+     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between; /* Espacio entre productos */
+    justify-content: space-between; /* Espaciado entre columnas */
+    margin: 0 -10px; /* Ajusta el margen según sea necesario */
 }
 
 .product {
-    flex: 0 1 calc(33.33% - 10px); /* Tres columnas con un pequeño margen */
-    margin-bottom: 20px; /* Espacio entre filas */
+     flex: 0 1 calc(33.33% - 20px); /* Tres columnas */
+    margin: 10px; /* Margen entre productos */
+    max-width: 400px; /* Asegúrate de que el ancho máximo sea suficiente */
     display: flex;
     flex-direction: column; /* Para alinear imagen, precio y botón */
     align-items: center; /* Centra el contenido */
 }
 
 .imagen {
-   width: 100%; /* Hace que la imagen ocupe todo el contenedor */
-    height: 100%; /* Mantiene la proporción de la imagen */
-    border-radius: 5px; /* Opcional: bordes redondeados */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Opcional: sombra para destacar */
+    width: 100%; /* Ancho completo del contenedor */
+    height: auto; /* Mantiene la proporción */
+    max-height: 300px; /* Establece una altura máxima si es necesario */
+    object-fit: cover; /* Rellena el contenedor sin distorsionar */
 }
 
 .carrito {
