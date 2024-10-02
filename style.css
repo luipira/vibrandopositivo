@@ -81,7 +81,6 @@ body {
 }
 
 .imagen {
-    max-width: 100%; /* Ajusta la imagen al contenedor */
     height: auto;
     border-radius: 4px;
 }
