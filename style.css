@@ -252,19 +252,7 @@ body {
 	visibility: visible;
 	opacity: 1;
 }
-  .card-img-container {
-    position: relative;
-    overflow: hidden;
-    padding-top: 100%; /* Establece la altura de la imagen como un porcentaje para que sea un cuadrado */
-  }
-
-  .card-img-container img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
-  }
+  
   .cursor-pointer {
   cursor: pointer;
 }
