@@ -82,7 +82,7 @@ body {
 
 .imagen {
    width: 100%; /* Hace que la imagen ocupe todo el contenedor */
-    height: auto; /* Mantiene la proporción de la imagen */
+    height: 100%; /* Mantiene la proporción de la imagen */
     border-radius: 5px; /* Opcional: bordes redondeados */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Opcional: sombra para destacar */
 }
