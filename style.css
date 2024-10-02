@@ -75,7 +75,7 @@ body {
 
 .product {
     flex: 0 1 calc(50% - 20px); /* Dos columnas */
-    margin: 10px; /* Margen entre productos */
+    margin: 2px; /* Margen entre productos */
     max-width: 400px; /* Asegúrate de que el ancho máximo sea suficiente */
     display: flex;
     flex-direction: column; /* Para alinear imagen, precio y botón */
