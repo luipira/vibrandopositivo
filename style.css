@@ -74,7 +74,7 @@ body {
 }
 
 .product {
-     flex: 0 1 calc(33.33% - 20px); /* Tres columnas */
+    flex: 0 1 calc(50% - 20px); /* Dos columnas */
     margin: 10px; /* Margen entre productos */
     max-width: 400px; /* Asegúrate de que el ancho máximo sea suficiente */
     display: flex;
