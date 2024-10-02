@@ -165,10 +165,7 @@ body {
   box-sizing: border-box;
 }
 
-.lightbox img {
-  display: block;
-  margin: auto;
-}
+
 
 .lightbox .caption {
   margin: 15px auto;
